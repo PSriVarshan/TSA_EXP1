@@ -1,5 +1,9 @@
+### Developed By : Sri Varshan P
+### Register No. 212222240104
+###  Date: 
+
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 20/08/2024
+
 
 # AIM:
 To Develop a python program to Plot a time series data for Russian Losses of equipments in War
